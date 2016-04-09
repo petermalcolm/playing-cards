@@ -1,0 +1,24 @@
+{
+  "name": "react-cards",
+  "version": "0.0.0",
+  "description": "simple playing cards using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petermalcolm/playing-cards.git"
+  },
+  "keywords": [
+    "javascript",
+    "playing",
+    "cards"
+  ],
+  "author": "petermalcolm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petermalcolm/playing-cards/issues"
+  },
+  "homepage": "https://github.com/petermalcolm/playing-cards#readme"
+}
