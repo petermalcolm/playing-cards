@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/petermalcolm/playing-cards/issues"
   },
-  "homepage": "https://github.com/petermalcolm/playing-cards#readme"
+  "homepage": "https://github.com/petermalcolm/playing-cards#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
 }
